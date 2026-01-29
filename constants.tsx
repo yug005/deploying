@@ -65,8 +65,8 @@ export const CERTIFICATES = [
     issuer: "NASSCOM Foundation × thingQbator",
     date: "2018-2025 Cycle",
     description: "Architected end-to-end enterprise-grade solutions through a rigorous Cisco-backed training initiative. Mastered the implementation of high-concurrency backend services using Node.js and Express, integrated with optimized non-relational data modeling in MongoDB. Successfully engineered responsive, state-driven user interfaces with React, ensuring a professional-standard full-stack lifecycle command.",
-    imageUrl: "https://lh3.googleusercontent.com/d/1gppl6IvgVqGiDHhKRl99z8G5664K739G",
-    driveUrl: "https://drive.google.com/file/d/1gppl6IvgVqGiDHhKRl99z8G5664K739G/view?usp=sharing",
+    imageUrl: "/mern.pdf",
+    driveUrl: "/mern.pdf",
     verification: "Verified by CEO, NASSCOM Foundation",
     badge: "MERN Certified"
   },
@@ -77,7 +77,7 @@ export const CERTIFICATES = [
     date: "March 2025",
     description: "Demonstrated elite technical agility during a high-stakes 48-hour competitive engineering intensive at Plaksha University. Rapidly conceptualized and deployed a production-ready prototype, navigating complex architectural constraints and cross-functional integration hurdles. Recognized for exceptional problem-solving logic and the ability to architect scalable MVPs under extreme pressure.",
     imageUrl: "https://lh3.googleusercontent.com/d/1rubbK4k7O8LQr5emdAfd0G9sJONNhfD7",
-    driveUrl: "https://drive.google.com/file/d/1rubbK4k7O8LQr5emdAfd0G9sJONNhfD7/view?usp=sharing",
+    driveUrl: "/hc.png",
     verification: "Official Participation Credential",
     badge: "Elite Hackathon Participant"
   }
@@ -88,6 +88,6 @@ export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/yug-arora-2475b331a/",
   leetcode: "https://leetcode.com/u/Yug_Arora",
   email: "mailto:arorayug07@gmail.com",
-  resume: "https://deploying-yugs-projects-c771ecc6.vercel.app/"
+  resume: "/resume.pdf"
   //update resume link
 };
