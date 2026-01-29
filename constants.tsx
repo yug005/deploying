@@ -88,6 +88,6 @@ export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/yug-arora-2475b331a/",
   leetcode: "https://leetcode.com/u/Yug_Arora",
   email: "mailto:arorayug07@gmail.com",
-  resume: "https://drive.google.com/file/d/10Ol2MypIDuwe3qI7bu3dlwgCVTeiDF8N/view?usp=drive_link"
+  resume: "https://deploying-yugs-projects-c771ecc6.vercel.app/"
   //update resume link
 };
