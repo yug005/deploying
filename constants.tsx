@@ -1,3 +1,4 @@
+
 import { Project, TechCategory } from './types';
 
 export const TECH_STACK: TechCategory[] = [
@@ -29,7 +30,7 @@ export const PROJECTS: Project[] = [
     description: "An architecturally complex real-time multiplayer ecosystem. Features custom synchronization logic, secure JWT-based session management, and a highly optimized MongoDB schema for low-latency game state persistence.",
     tags: ["Node.js", "Express", "MongoDB", "Socket.io"],
     githubUrl: "https://github.com/yug005/Color-Clash-Multiplayer",
-    liveUrl: "https://ccm-xy1v.onrender.com/",
+    liveUrl: "https://color-clash-multiplayer.vercel.app",
     type: "Main"
   },
   {
@@ -65,8 +66,8 @@ export const CERTIFICATES = [
     issuer: "NASSCOM Foundation × thingQbator",
     date: "2018-2025 Cycle",
     description: "Architected end-to-end enterprise-grade solutions through a rigorous Cisco-backed training initiative. Mastered the implementation of high-concurrency backend services using Node.js and Express, integrated with optimized non-relational data modeling in MongoDB. Successfully engineered responsive, state-driven user interfaces with React, ensuring a professional-standard full-stack lifecycle command.",
-    imageUrl: "/mern.pdf",
-    driveUrl: "/mern.pdf",
+    imageUrl: "/mernCERTIFICATE.png", 
+    driveUrl: "/mernCERTIFICATE.pdf",
     verification: "Verified by CEO, NASSCOM Foundation",
     badge: "MERN Certified"
   },
@@ -76,8 +77,8 @@ export const CERTIFICATES = [
     issuer: "Geek Room Plaksha × E-Cell Plaksha",
     date: "March 2025",
     description: "Demonstrated elite technical agility during a high-stakes 48-hour competitive engineering intensive at Plaksha University. Rapidly conceptualized and deployed a production-ready prototype, navigating complex architectural constraints and cross-functional integration hurdles. Recognized for exceptional problem-solving logic and the ability to architect scalable MVPs under extreme pressure.",
-    imageUrl: "https://lh3.googleusercontent.com/d/1rubbK4k7O8LQr5emdAfd0G9sJONNhfD7",
-    driveUrl: "/hc.png",
+    imageUrl: "/hackathonCERTIFICATE.png",
+    driveUrl: "/hackathonCERTIFICATE.pdf",
     verification: "Official Participation Credential",
     badge: "Elite Hackathon Participant"
   }
@@ -88,6 +89,5 @@ export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/yug-arora-2475b331a/",
   leetcode: "https://leetcode.com/u/Yug_Arora",
   email: "mailto:arorayug07@gmail.com",
-  resume: "/resume.pdf"
-  //update resume link
+  resume: "https://drive.google.com/file/d/1hrwzbTilIFkd6HmhaXYOwl2JarARs44D/view?usp=sharing"
 };
