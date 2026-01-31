@@ -29,8 +29,8 @@ export const PROJECTS: Project[] = [
     title: "Color Clash Multiplayer",
     description: "An architecturally complex real-time multiplayer ecosystem. Features custom synchronization logic, secure JWT-based session management, and a highly optimized MongoDB schema for low-latency game state persistence.",
     tags: ["Node.js", "Express", "MongoDB", "Socket.io"],
-    githubUrl: "https://github.com/yug005/Color-Clash-Multiplayer",
-    liveUrl: "https://color-clash-multiplayer.vercel.app",
+    githubUrl: "https://github.com/yug005/ccm",
+    liveUrl: "https://ccm-xy1v.onrender.com/",
     type: "Main"
   },
   {
