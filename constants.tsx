@@ -21,6 +21,15 @@ export const TECH_STACK: TechCategory[] = [
   {
     title: "Deployment",
     items: ["Vercel", "Render"]
+  },
+  {
+    title: "Cloud & AWS",
+    items: [
+      "AWS EC2",
+      "AWS S3",
+      "AWS IAM",
+      "AWS CloudWatch"
+    ]
   }
 ];
 
@@ -66,7 +75,7 @@ export const CERTIFICATES = [
     issuer: "NASSCOM Foundation × thingQbator",
     date: "2018-2025 Cycle",
     description: "Architected end-to-end enterprise-grade solutions through a rigorous Cisco-backed training initiative. Mastered the implementation of high-concurrency backend services using Node.js and Express, integrated with optimized non-relational data modeling in MongoDB. Successfully engineered responsive, state-driven user interfaces with React, ensuring a professional-standard full-stack lifecycle command.",
-    imageUrl: "/MERN.pdf", 
+    imageUrl: "/MERN.pdf",
     driveUrl: "/MERN.pdf",
     verification: "Verified by CEO, NASSCOM Foundation",
     badge: "MERN Certified"
