@@ -4,7 +4,7 @@ import { Project, TechCategory } from './types';
 export const TECH_STACK: TechCategory[] = [
   {
     title: "Languages",
-    items: ["JavaScript", "Java", "Python (basic)", "SQL"]
+    items: ["JavaScript", "Java", "SQL"]
   },
   {
     title: "Backend",
@@ -42,13 +42,13 @@ export const PROJECTS: Project[] = [
     liveUrl: "https://ccm-xy1v.onrender.com/",
     type: "Main"
   },
-  {
-    title: "OS Simulator",
-    description: "A low-level systems engineering project that simulates kernel-level operations. Implemented advanced priority-based scheduling algorithms and virtual memory management logic to demonstrate deep CS fundamentals.",
-    tags: ["Java", "Systems Design", "Algorithms"],
-    githubUrl: "https://github.com/yug005/OS_simulator.git",
-    type: "Main"
-  },
+  // {
+  //   title: "OS Simulator",
+  //   description: "A low-level systems engineering project that simulates kernel-level operations. Implemented advanced priority-based scheduling algorithms and virtual memory management logic to demonstrate deep CS fundamentals.",
+  //   tags: ["Java", "Systems Design", "Algorithms"],
+  //   githubUrl: "https://github.com/yug005/OS_simulator.git",
+  //   type: "Main"
+  // },
   {
     title: "NeuroNotes",
     description: "A high-efficiency productivity engine utilizing deterministic heuristic algorithms for document distillation. Engineered for privacy and speed, avoiding LLM overhead while maintaining semantic accuracy.",

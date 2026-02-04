@@ -35,7 +35,7 @@ export const DSABlock: React.FC = () => {
           <div className="space-y-4">
             {[
               { label: "Algorithm Mastery", desc: "Expertise in Big O optimization and recursive logic." },
-              { label: "Data Structures", desc: "Proficient in trees, graphs, and dynamic programming." },
+              { label: "Data Structures", desc: "solved basic level dsa" },
               { label: "Consistency", desc: "Many problems solved with a focus on memory safety and efficiency." }
             ].map((stat, i) => (
               <div key={i} className="p-10 bg-white/[0.02] border border-white/5 rounded-3xl group/item hover:border-white/10 hover:bg-white/[0.03] transition-all duration-500">
