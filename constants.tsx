@@ -53,7 +53,7 @@ export const PROJECTS: Project[] = [
     title: "NeuroNotes",
     description: "A smart task management API featuring a premium glassmorphism UI and AI-powered productivity insights. Built with a clean REST architecture, in-memory storage for speed, and OpenRouter 'Mistral' integration for intelligent task summarization.",
     tags: ["Node.js", "Express.js", "OpenRouter AI", "JS", "REST API"],
-    githubUrl: "https://github.com/yug005/NeuroNotes",
+    githubUrl: "https://github.com/yug005/NeuroNote",
     type: "Main"
 }
 ];
