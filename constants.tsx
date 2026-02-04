@@ -51,11 +51,11 @@ export const PROJECTS: Project[] = [
   // },
   {
     title: "NeuroNotes",
-    description: "A high-efficiency productivity engine utilizing deterministic heuristic algorithms for document distillation. Engineered for privacy and speed, avoiding LLM overhead while maintaining semantic accuracy.",
-    tags: ["Python", "Heuristics", "Data Structures"],
+    description: "A smart task management API featuring a premium glassmorphism UI and AI-powered productivity insights. Built with a clean REST architecture, in-memory storage for speed, and OpenRouter 'Mistral' integration for intelligent task summarization.",
+    tags: ["Node.js", "Express.js", "OpenRouter AI", "JS", "REST API"],
     githubUrl: "https://github.com/yug005/NeuroNotes",
     type: "Main"
-  }
+}
 ];
 
 export const HACKATHONS: Project[] = [
