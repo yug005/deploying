@@ -4,7 +4,7 @@ import { Project, TechCategory } from './types';
 export const TECH_STACK: TechCategory[] = [
   {
     title: "Languages",
-    items: ["JavaScript", "Java", "SQL"]
+    items: ["JavaScript", "Java"]
   },
   {
     title: "Backend",
