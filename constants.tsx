@@ -35,6 +35,14 @@ export const TECH_STACK: TechCategory[] = [
 
 export const PROJECTS: Project[] = [
   {
+    title: "zer0Friction",
+    description: "A production-grade observability and security intelligence platform for autonomous uptime monitoring, API/SSL/DNS/TCP checks, incident tracking, public status pages, and an advanced security scanning engine with executive reports and a companion CLI.",
+    tags: ["TypeScript", "NestJS", "React", "Prisma", "PostgreSQL", "Redis", "Docker"],
+    githubUrl: "https://github.com/yug005/zf",
+    liveUrl: "https://www.zer0friction.in",
+    type: "Main"
+  },
+  {
     title: "Color Clash Multiplayer",
     description: "An architecturally complex real-time multiplayer ecosystem. Features custom synchronization logic, secure JWT-based session management, and a highly optimized MongoDB schema for low-latency game state persistence.",
     tags: ["Node.js", "Express", "MongoDB", "Socket.io"],
